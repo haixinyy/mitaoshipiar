@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haixinyy.github.io/mitaoshipiar/sitemap.xml
